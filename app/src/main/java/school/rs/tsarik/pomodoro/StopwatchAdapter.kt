@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
-import com.example.pomodoro.databinding.StopwatchItemBinding
+import school.rs.tsarik.pomodoro.databinding.StopwatchItemBinding
 
 class StopwatchAdapter(
     private val listener: StopwatchListener

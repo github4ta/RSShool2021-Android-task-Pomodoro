@@ -5,7 +5,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.widget.addTextChangedListener
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.pomodoro.databinding.ActivityMainBinding
+import school.rs.tsarik.pomodoro.databinding.ActivityMainBinding
 import java.util.concurrent.TimeUnit
 
 class MainActivity : AppCompatActivity(), StopwatchListener {

@@ -5,7 +5,7 @@ import android.graphics.drawable.AnimationDrawable
 import android.os.CountDownTimer
 import androidx.core.view.isInvisible
 import androidx.recyclerview.widget.RecyclerView
-import com.example.pomodoro.databinding.StopwatchItemBinding
+import school.rs.tsarik.pomodoro.databinding.StopwatchItemBinding
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 
